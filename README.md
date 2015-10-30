@@ -2,9 +2,9 @@
 A NodeJS module to access Fetchr API
 
 ## Installation
-
+```js
   npm install fetchr-api --save
-
+```
 ## Usage
 
     var Fetchr = require('fetchr-node-client')({
@@ -51,11 +51,12 @@ A NodeJS module to access Fetchr API
     });
 
 ## Tests
-
+```
   npm test
-
+```
 ## Contributing
 
 ## Release History
-
+```
 * 1.0.0 Initial release
+```

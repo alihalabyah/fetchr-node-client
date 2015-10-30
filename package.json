@@ -1,0 +1,32 @@
+{
+  "name": "fetchr-api",
+  "version": "1.0.0",
+  "description": "A NodeJS module to access Fetchr API",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alihalabyah/fetchr-node-client.git"
+  },
+  "keywords": [
+    "Fetchr",
+    "ShippHappy",
+    "Fetchr.us",
+    "Shipping"
+  ],
+  "author": "Ali Halabyah <alihalabyah@gmail.com> (alihalabyah.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alihalabyah/fetchr-node-client/issues"
+  },
+  "homepage": "https://github.com/alihalabyah/fetchr-node-client#readme",
+  "devDependencies": {
+    "chai": "^3.4.0",
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "request": "^2.65.0"
+  }
+}

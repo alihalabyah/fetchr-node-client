@@ -1,4 +1,4 @@
-# fetchr-node-client
+# Fetchr Node.js API wrapper
 A NodeJS module to access Fetchr API
 
 ## Installation
